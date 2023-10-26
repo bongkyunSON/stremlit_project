@@ -18,7 +18,7 @@ st.title("ChatPDF")
 st.write("-"*30)
 
 #파일 업로드
-uploaded_file = st.file_uploader("PDF 업로드 해주세요", type="pdf")
+uploaded_file = st.file_uploader("PDF 업로드 해주세요", type=["pdf"])
 st.write("-"*30)
 
 def pdf_to_document(uploaded_file):
