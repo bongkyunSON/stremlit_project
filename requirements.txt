@@ -4,3 +4,4 @@ streamlit
 ctransformers
 chromadb
 pysqlite3-binary
+pypdf
