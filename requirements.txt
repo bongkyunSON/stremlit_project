@@ -3,3 +3,4 @@ openai
 streamlit
 ctransformers
 chromadb
+pysqlite3-binary
