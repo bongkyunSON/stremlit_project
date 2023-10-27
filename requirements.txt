@@ -3,5 +3,5 @@ openai
 streamlit
 ctransformers
 chromadb
+tiktoken
 pysqlite3-binary
-pypdf
