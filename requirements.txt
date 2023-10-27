@@ -5,5 +5,4 @@ ctransformers
 chromadb
 tiktoken
 pysqlite3-binary
-PyPDF2==1.23
 pypdf
