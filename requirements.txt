@@ -1,8 +1,10 @@
-langchain
 openai
+python-dotenv
 streamlit
+requests
+streamlit_chat
+pydantic
+langchain
 ctransformers
 chromadb
 tiktoken
-pysqlite3-binary
-pypdf
